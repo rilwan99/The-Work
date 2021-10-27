@@ -40,7 +40,7 @@ function Services() {
           stole money from his clients and lost it in the stock market, and he
           needs to win the game to avoid arrest and keep his mother's house and
           business. Potrayed as an intellectual and smart character, Sang-Woo is
-          an epitome of how greed can causae the best of us to fall.
+          an epitome of how greed can cause the best of us to fall.
         </p>
       </div>
 
@@ -77,7 +77,7 @@ function Services() {
           was just enjoying the games as a way to have fun before his death.
           However, it was later revealed that he is the creator and host of the
           Squid Game, a true mastermind who has been hosting the Squid Game for
-          decades
+          decades.
         </p>
       </div>
 
@@ -92,7 +92,7 @@ function Services() {
         <p className="body-text">
           Ali, a migrant factory worker whose boss withheld his pay for months,
           is forced to leave his wife and baby to take his chance at winning
-          millions in the deadly games. He is easily the most likable character
+          millions in this deadly game. He is easily the most likable character
           on the show. From the very first episode, the kindhearted player shows
           he’s willing to risk his own life to save others. As an immigrant, he
           knows what it’s like to be mistreated by cruel individuals, and he

@@ -24,11 +24,12 @@ function Page1() {
             world’s richest 1 percent owns almost half of the world’s wealth.
           </a>{" "}
           In such a world where a select group of individuals have access to
-          most of the world’s resources, the disparity that persists has deep
-          consequence and implications. From the moment that we are born, we are
-          subjected to various forms of inequality. This inequality can appear
-          in a myriad of forms such as income inequality, inequality of
-          opportunities, racial inequality and more.
+          most of the world’s resources, the disparity that persists between
+          different groups of individuals has deep consequence and implications.
+          From the moment that we are born, we are subjected to various forms of
+          inequality. This inequality can appear in a myriad of forms such as
+          income inequality, inequality of opportunities, racial inequality and
+          more.
         </p>
       </div>
 
@@ -70,8 +71,7 @@ function Page1() {
           class, and other factors privilege certain individuals over others by
           reserving valuable opportunities for them. This limits the potential
           of affected individuals as they are unable to seize the necessary
-          opportunities to achieve growth and improvement in their social
-          standing.
+          opportunities to achieve growth and improvement their social standing.
         </p>
       </div>
 

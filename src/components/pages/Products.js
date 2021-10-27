@@ -17,11 +17,11 @@ function Products() {
         <h3 className="sub-header">1. RED LIGHT, GREEN LIGHT</h3>
         <p className="body-text">
           Players stand at the far end of a field behind a starting line while
-          another person stands at the far opposite side of said field. The goal
+          another person stands at the far opposite side of same field. The goal
           for the players is to cross to the opposite side of the field, moving
           only when the person at the opposite side says “Green Light” and
           stopping when they say “Red Light.” If someone is spotted moving after
-          Red Light is called, they are eliminated from the game.
+          "Red Light" is called, they are eliminated from the game.
         </p>
       </div>
 
@@ -35,11 +35,11 @@ function Products() {
         <h3 className="sub-header">2. PPOPGI/ DALGONA CANDY</h3>
         <p className="body-text">
           Each of the players is given a tin containing a honeycomb stamped with
-          one of four shapes they chose at random before the start of the game;
-          a circle, a triangle, a star, or an umbrella. In order to survive,
-          each player must remove the shape intact from the honeycomb tin within
-          10 minutes. If a player is unable to fulfill either of these
-          requirements, they are shot on sight.
+          one of four shapes they chose at random before the start of the game.
+          The 4 shapes consists of a circle, a triangle, a star, and an
+          umbrella. In order to survive, each player must remove the shape
+          intact from the honeycomb tin within 10 minutes. If a player is unable
+          to fulfill either of these requirements, they are shot on sight.
         </p>
       </div>
 
@@ -52,11 +52,11 @@ function Products() {
       <div className="sub-container">
         <h3 className="sub-header">3. TUG OF WAR</h3>
         <p className="body-text">
-          One team of players holds one of a large braided rope while the other
-          team holds the opposite side of said rope. The goal of the game is to
-          overpower the opposing team by pulling on the rope at the same time,
-          dragging them across the dividing line drawn in the center between the
-          two.
+          One team of players holds one end of a large braided rope while the
+          other team holds the opposite side of same rope. The goal of the game
+          is to overpower the opposing team by pulling on the rope together as a
+          team, dragging them across the dividing line drawn in the center
+          between the two teams.
         </p>
       </div>
 
@@ -69,8 +69,9 @@ function Products() {
       <div className="sub-container">
         <h3 className="sub-header">4. MARBLES</h3>
         <p className="body-text">
-          You just have to play any game you make up with your partner using 20
-          marbles and whoever has all the marbles at the end is the winner.
+          This is a straightforward game where players can play any game they
+          decide to, with their partner, using 20 marbles. Whoever has all the
+          marbles at the end is the winner.
         </p>
       </div>
 

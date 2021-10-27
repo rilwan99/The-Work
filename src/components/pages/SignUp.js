@@ -37,10 +37,8 @@ function SignUp() {
           after each game. Eventually, they find out that the amount is
           essentially based on each player's death. Every time a player dies in
           or outside of an official game in Squid Game, 100,000 won is added to
-          the prize fund. It might not sound like much, but with 456 players in
-          total, it certainly adds up. By the end of the series and all size
-          games, only one player is supposed to be left standing. They alone win
-          the total cash prize.
+          the prize fund. By the end of the series, only one player is supposed
+          to be left standing and they alone win the total cash prize.
         </p>
       </div>
       <Footer />
