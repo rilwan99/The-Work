@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className="hero-container">
       {" "}
-      <video src="/videos/video-1.mov" autoPlay loop muted />
+      <video src="/videos/video-1.mov" autoPlay loop />
       <h1>SQUID GAME</h1>
       <p>And INEQUALITY</p>
     </div>
